@@ -1,0 +1,10 @@
+{
+  "name": "laura-dms-hierarchy-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "description": "Read-only hierarchical Lark Base dashboard; no credentials or business records."
+}
